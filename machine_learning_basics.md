@@ -67,7 +67,8 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 
 <details>
 <summary>Types of Supervised Learning</summary>
-  
+
+<br>
 <p align="center">
   <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_supervised_learning.jpg" height="300" width="520" alt="AI ML DL" />
 </p>
