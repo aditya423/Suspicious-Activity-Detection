@@ -68,9 +68,22 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 <details>
 <summary>Types of Supervised Learning</summary>
   
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_supervised_learning.jpg" height="300" width="520" alt="AI ML DL" />
+</p>
+  
 ### Classification 
 * It is about predicting a class or discrete values eg: male or female, true or false
+* Algorithms used:
+  1. Decision Tree Classification
+  2. Random Forest Classification
+  3. K-nearest Neighbor
+  
 ### Regression 
 * It is about predicting a quantity or continuous values eg: salary, age, price
+* Algorithms used:
+  1. Logistic Regression
+  2. Polynomial Regression
+  3. Support Vector Machines
   
 </details>
