@@ -1,4 +1,6 @@
 
+## AI vs ML vs DL
+
 <p align="center">
   <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/AI_ML_DL.png" height="300" width="520" alt="AI ML DL" />
 </p>
@@ -11,6 +13,10 @@ technique to implement AI that can learn from the data by themselves without bei
 
 ### Deep Learning
 subfield of ML that uses Artificial Neural Networks to learn from the data
+
+<hr>
+
+## Machine Learning
 
 ### What is Machine Learning? 
 * Teaching machines using data 
