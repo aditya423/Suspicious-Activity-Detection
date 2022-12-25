@@ -65,10 +65,12 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 * Already tagged data
 * Features and labels present
 
-### Types of Supervised Learning
 <details>
+<summary>Types of Supervised Learning</summary>
+  
 ### Classification 
 * It is about predicting a class or discrete values eg: male or female, true or false
 ### Regression 
 * It is about predicting a quantity or continuous values eg: salary, age, price
+  
 </details>
