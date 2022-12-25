@@ -71,11 +71,6 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 
 <details>
 <summary>Types of Supervised Learning</summary>
-
-<br>
-<p align="center">
-  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_supervised_learning.jpg" height="300" width="520" alt="AI ML DL" />
-</p>
   
 ### Classification 
 * It is about predicting a class or discrete values eg: male or female, true or false
@@ -90,6 +85,11 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
   1. Logistic Regression
   2. Polynomial Regression
   3. Support Vector Machines
+  
+<br>
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_supervised_learning.jpg" height="300" width="520" alt="AI ML DL" />
+</p>
   
 </details>
 
