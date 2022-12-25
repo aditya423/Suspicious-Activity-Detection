@@ -126,7 +126,7 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 
 <br>
 <p align="center">
-  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_unsupervised_learning_association.jpg" height="300" width="520" alt="AI ML DL" />
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_unsupervised_learning_association.jpg" height="260" width="520" alt="AI ML DL" />
 </p>
   
 </details>
@@ -140,7 +140,7 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 
 <br>
 <p align="center">
-  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/reinforcement_learning.jpg" height="300" width="600" alt="AI ML DL" />
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/reinforcement_learning.jpg" height="200" width="600" alt="AI ML DL" />
 </p>
 
 <hr>
@@ -150,6 +150,8 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 * Simple and efficient tools for data mining and data analysis 
 * Built on NumPy, SciPy and Matplotlib
 * To install: [pip install sklearn]
+
+<hr>
 
 ## Note 
 * Half dataset used for Training the model and half dataset used for Testing the model
