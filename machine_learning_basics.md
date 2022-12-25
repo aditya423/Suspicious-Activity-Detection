@@ -92,3 +92,65 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
   3. Support Vector Machines
   
 </details>
+
+### Unsupervised ML Algorithms
+* All machine knows is the data in front of it
+* Data not already tagged
+* Features and labels not present 
+* Training not done
+
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/unsupervised_learning.jpg" height="300" width="600" alt="AI ML DL" />
+</p>
+
+<details>
+<summary>Types of Supervised Learning</summary>
+  
+### Clustering
+* It is about grouping the similar data points
+* Algorithms used:
+  1. K-means Clustering
+  2. Hierarchical Clustering
+ 
+<br>
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_unsupervised_learning_clustering.jpg" height="300" width="520" alt="AI ML DL" />
+</p>
+  
+### Association
+* It is used to find important relationship between data points
+* Algorithms used:
+  1. Principal Component Analysis (PCA)
+  2. Apriori
+  3. Eclat
+
+<br>
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/types_of_unsupervised_learning_association.jpg" height="300" width="520" alt="AI ML DL" />
+</p>
+  
+</details>
+
+### Reinforcement ML Algorithms
+* Area of ML concerned with how intelligent agents take actions in an environment to maximize its rewards
+* It is employed by various software and machines to find the best possible behavior or path it should take in a specific situation
+* If it takes move closer to the winning it will get a positive reward 
+* If it takes bad move it will get a negative reward 
+* By this machine tries to learn how to play that game 
+
+<br>
+<p align="center">
+  <img src="https://github.com/aditya423/suspicious_activity_detection/blob/main/temp/reinforcement_learning.jpg" height="300" width="600" alt="AI ML DL" />
+</p>
+
+<hr>
+
+## Scikit Learn
+* Must download and learn ML library 
+* Simple and efficient tools for data mining and data analysis 
+* Built on NumPy, SciPy and Matplotlib
+* To install: [pip install sklearn]
+
+## Note 
+* Half dataset used for Training the model and half dataset used for Testing the model
+
