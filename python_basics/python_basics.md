@@ -27,7 +27,7 @@
 * does not allow duplicate values
 * can add elements to set
 * cannot print elements using their index
-3. Dictionary
+3. Dictionary {:}
 * does not allow duplicate values
 * can add elements to dictionary
 * can print elements using their keys
