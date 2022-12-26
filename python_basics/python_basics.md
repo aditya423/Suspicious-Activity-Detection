@@ -14,23 +14,31 @@
 2. float
 3. string
 4. bool
-5. tuple ()
+<details>
+<summary>5. tuple ()</summary>
 * can have multiple data types
 * cannot add elements to tuple
 * can print elements using their index
+</details>
 ### Mutable Objects
-1. List []
+<details>
+<summary>1. List []</summary>
 * can have multiple data types
 * can add elements to list
 * can print elements using their index
-2. Set {}
+</details>
+<details>
+<summary>2. Set {}</summary>
 * does not allow duplicate values
 * can add elements to set
 * cannot print elements using their index
-3. Dictionary {:}
+</details>
+<details>
+<summary>3. Dictionary {:}</summary>
 * does not allow duplicate values
 * can add elements to dictionary
 * can print elements using their keys
+</details>
 
 <hr>
 
