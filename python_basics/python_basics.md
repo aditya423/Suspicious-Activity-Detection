@@ -21,6 +21,7 @@
 * cannot add elements to tuple
 * can print elements using their index
 </details>
+
 ### Mutable Objects
 <details>
 <summary>1. List []</summary>
