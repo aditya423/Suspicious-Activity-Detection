@@ -104,7 +104,7 @@ Subfield of ML that uses Artificial Neural Networks to learn from the data
 </p>
 
 <details>
-<summary>Types of Supervised Learning</summary>
+<summary>Types of Unsupervised Learning</summary>
   
 ### Clustering
 * It is about grouping the similar data points
