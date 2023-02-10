@@ -1,7 +1,7 @@
 import cv2 
 import os 
 
-vid = cv2.VideoCapture(r"C:\Users\Aditya\suspicious_activity_detection\project\output.avi")
+vid = cv2.VideoCapture(r"C:\Users\Aditya\suspicious_activity_detection\project\dataset\fights\newfi1.avi")
 currentframe = 0
 
 if not os.path.exists('frames'):
@@ -10,7 +10,7 @@ if not os.path.exists('frames'):
 while(vid.isOpened()):
     success, frame = vid.read()
     cv2.imshow('output', frame)
-    cv2.imwrite('./frames/frame' + str(currentframe) + '.jpg', frame)
+    cv2.imwrite('./project/dataset/fights/frames/frame' + str(currentframe) + '.jpg', frame)
     currentframe += 1
     if(cv2.waitKey(1) & 0xFF==('q')):
         break 
