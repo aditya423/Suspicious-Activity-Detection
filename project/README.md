@@ -10,5 +10,4 @@
 ### Note
 If the image is abnormal then only provide the image to Models_Fight_Gun_Knife.ipynb. If it's a normal image then you do not need to classify it further.
 
-<hr>
 
