@@ -1,9 +1,9 @@
 
 ### Must Read
 
-1. Dataset.ipynb is used for reshaping, splitting, labelling and binary conversion
-2. Models_Normal_Abnormal.ipynb is used to classify the image as normal or abnormal
-3. Models_Fight_Gun_Knife.ipynb is used to classify the image as fight or gun or knife
+1. <b>Dataset.ipynb</b> is used for reshaping, splitting, labelling and binary conversion
+2. <b>Models_Normal_Abnormal.ipynb</b> is used to classify the image as normal or abnormal
+3. <b>Models_Fight_Gun_Knife.ipynb</b> is used to classify the image as fight or gun or knife
 
 <hr>
 
