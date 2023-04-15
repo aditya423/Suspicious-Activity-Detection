@@ -16,5 +16,5 @@
 * ResNet50v2
 * VGG19
 
-<hr>
+
 
